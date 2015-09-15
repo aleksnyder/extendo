@@ -24,3 +24,6 @@ A simple, easy-to-use background slider built primarily using jQuery.  To add a 
         propertyName: "a custom value"
     });
     ```
+
+## License
+See [LICENSE](https://github.com/aleksnyder/extendo/blob/master/LICENSE)
